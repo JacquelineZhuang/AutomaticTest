@@ -1,0 +1,11 @@
+2018-05-08 22:10:03,558 - BrowserEngine - INFO -You had select Chrome browser 
+2018-05-08 22:10:03,558 - BrowserEngine - INFO -The test server url is:http://www.baidu.com 
+2018-05-08 22:10:06,199 - BrowserEngine - INFO -Open url :http://www.baidu.com 
+2018-05-08 22:10:06,411 - BrowserEngine - INFO -Maximiza the current window 
+2018-05-08 22:10:06,412 - BrowserEngine - INFO -Set implicitly wait 10 seconds 
+2018-05-08 22:10:06,572 - BasePage - INFO -Had find the element '' successfulby id via value:kw 
+2018-05-08 22:10:06,717 - BasePage - INFO -Had type 'selenium' in inputbaox 
+2018-05-08 22:10:06,745 - BasePage - INFO -Had find element '' successfulby xpath via value://*[@id ='su'] 
+2018-05-08 22:10:06,815 - BasePage - INFO -The element '' was clicked 
+2018-05-08 22:10:09,412 - BasePage - INFO -Had take screenshot and save to folder:/screenshots 
+2018-05-08 22:10:09,416 - BasePage - INFO -Current page tile is selenium_百度搜索 
